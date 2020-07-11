@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "103912556728",
+    "firebase_url": "https://stick-em-up.firebaseio.com",
+    "project_id": "stick-em-up",
+    "storage_bucket": "stick-em-up.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103912556728:android:35e20c2acc306ce9518c4d",
+        "android_client_info": {
+          "package_name": "edu.neu.stickemup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "103912556728-da61556358t9vjavamidb0dqrgjriedj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgzAiHNtML1aP9ajvVl5B0Ejl6QBASHwQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "103912556728-da61556358t9vjavamidb0dqrgjriedj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
